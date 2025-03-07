@@ -34,7 +34,7 @@ pip install pandas matplotlib seaborn prophet
    git clone <repo_url>
    cd WFC_Stock_Market_Impact_Analysis
    ```
-2. Ensure the required datasets (`WFC.csv`, `BAC.csv`, `JPM.csv`) are in the working directory.
+2. Ensure the required datasets (`WFC.csv`, `BAC.csv`, `JPMorgan_Stock_Merged.csv` and `JPMorgan_Stock_Price_History.csv`) are in the working directory.
 3. Run the Jupyter Notebook:
    ```sh
    jupyter notebook WFC_Stock_Market_Impact_Analysis.ipynb
